@@ -17,12 +17,14 @@ background-image: linear-gradient(32deg, #74EBD5 0%, #9FACE6 100%);
     border-radius: 100%;
   } */
 
+
+
 .profile-picture {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10%;
-    height: auto;
+    height: 119px;
     max-width: 130px;
     border-radius: 50%;
   }
@@ -35,7 +37,7 @@ background-image: linear-gradient(32deg, #74EBD5 0%, #9FACE6 100%);
 .links {
       text-align: center;
       margin-top: 20px;
-      padding: 20px;
+      padding: 15px;
       border: 1px solid white;
       border-width: 2px;
       width: 290px;
@@ -58,7 +60,7 @@ a {
     font-weight: bold;
 } */
 
-a:hover {
+#hover:hover {
     color: #000;
     background: #fff;
 }
@@ -67,6 +69,7 @@ a:hover {
   margin: 0 auto 0 auto;
   text-align: center;
   /* max-width: 1000px; */
+  
 }
 
 .icon-list-img {
